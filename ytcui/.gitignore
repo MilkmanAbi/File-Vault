@@ -1,0 +1,6 @@
+# Build output
+build/
+ytcui
+
+# OS cruft
+.DS_Store
