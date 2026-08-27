@@ -34,3 +34,7 @@ The main goal is to have a single, organized location for personal development m
 This repository may evolve into a more structured personal development hub over time. The focus will remain on personal learning, testing, and experimentation while maintaining organization and privacy.
 
 ---
+
+## Contents
+
+* `projects/ytcui-termux/` — working copy of [ytcui-termux](https://github.com/MilkmanAbi/ytcui-termux), staged here per request rather than pushed to that repo directly.

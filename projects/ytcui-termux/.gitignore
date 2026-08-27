@@ -1,0 +1,11 @@
+# Build output
+/build/
+/ytcui
+ytcui-termuxsim
+*.dSYM/
+
+# Build-time backend/theme seed written by install.sh
+.ytcui-build.conf
+
+# OS cruft
+.DS_Store
